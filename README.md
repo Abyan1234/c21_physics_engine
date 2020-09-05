@@ -1,2 +1,2 @@
-# c21_physics_engine
-bounciness of the ball
+# staticSquare
+A static square made using Matter.js physics engine
